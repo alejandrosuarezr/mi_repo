@@ -1,8 +1,7 @@
 <?php
 
- echo "hola";
- echo "mundo";
- echo "cruel";
- 
- echo "segundo dia de ejemplos git";
+echo "Ejemplo de operaciones utilizano PHP ";
+echo "</br>";
+echo "50 * 50 = ".(50*50);
+
 ?>
